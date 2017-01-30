@@ -1,0 +1,1 @@
+The goal of this project is to expand my knowledge of version control and GIT.
